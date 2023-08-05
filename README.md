@@ -1,1 +1,1 @@
-# bankapi
+# funapp
